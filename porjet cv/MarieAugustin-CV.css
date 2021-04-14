@@ -1,0 +1,47 @@
+/*Augustin MARIE*/
+
+body {
+	width: 70%;
+	margin-left: 15%;
+}
+
+header{
+	text-align: center;
+	border-top: 10px solid #688CD8;
+	border-bottom: 10px solid #688CD8;
+	background: #E8EFF7;
+	height: 200px;
+}
+
+#adresse{
+	text-align: left;
+	font-family: monospace;
+}
+
+header img{
+	float: right;
+	width: 15%;
+}
+
+article{
+	border-top: 10px solid #688CD8;
+	border-bottom: 10px solid #688CD8;
+	margin-top: 30pt;
+	background: #E8EFF7;
+}
+
+article h1{
+	color: #385CA8;
+	font-variant: small-caps;
+	padding-top: 10px;
+}
+
+.annee{
+	width: 100px;
+	display: block;
+	float: left;
+}
+
+/*Tout les navigateurs n'afficheront pas forcèment la page de la même façon
+car il n'y a pas de convention et tout les navigateurs sont libre d'interpréter
+graphiquement le html de manière différente*/

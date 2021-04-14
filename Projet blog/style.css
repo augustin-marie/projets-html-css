@@ -1,0 +1,96 @@
+html{
+	font-family: Arial, sans-serif;
+	height : auto;
+	min-height : 100%;
+}
+
+h2, h3, h4{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+body {
+	margin : 3px;
+	background-image : linear-gradient(to bottom,#fc9403,#ffc800);
+}
+
+
+H1 {
+	font-family: Snell Roundhand, cursive;
+	text-align: center;
+	background-color : #fc9403;
+	margin : -3px;
+	font-size : 40px;
+}
+
+H2 {
+	margin-top : 0%;
+}
+
+
+table {
+	width : 100%;
+	margin : -1px;
+}
+
+header th{
+	width : 25%;
+}
+
+header a {
+	color : #000000;
+	text-decoration : none;
+	display: inline-block;
+	width: 100%;
+	background: linear-gradient(#036bfc,#3a8bfc);
+	padding: 3px
+}
+
+header a:hover {
+	background: linear-gradient(#3a8bfc,#036bfc);
+}
+
+H3{
+	background: #7fa5ad;
+	display: block;
+	clear: both;
+	padding: 1% 0% 1% 0%;
+	text-align: center;
+}
+
+
+H4{
+	background: #7fa5ad;
+	display: block;
+	clear: both;
+	padding: 1% 0% 1% 0%;
+	text-align: center;
+}
+
+div {
+	margin-top: 2%;
+	margin-bottom : -15px;
+}
+
+
+.img_auteurs{
+	float: right;
+}
+
+.article_auteurs{
+	margin-bottom : 13%;
+}
+
+.img_gauche{
+	float: right;
+}
+
+.presentation{
+	margin-bottom : 12%;
+}
+
+.img_sous_article{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+/*Goupe2 : Augustin MARIE, Thibault BALLEUX, Pierrick BAUFFE*/
